@@ -1,6 +1,6 @@
 # CSC311 Homework 1: JSON with Microsoft Access
 
-**Author:**
+**Author:** Paul Kim
 
 **Description:**
 A JavaFx application to read data from a JSON file and insert it into Microsoft Access.
